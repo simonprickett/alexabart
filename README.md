@@ -1,7 +1,12 @@
-# alexabart
+# Alexa BART
+
 BART skill for Amazon Echo / Alexa in Python
 
-TODO - documentation, demo video...
+TODO - documentation
+
+# Demo Video
+
+[![Video Demo](screenshots/video_thumb.png)](https://youtu.be/wz3crI9UTvE)
 
 # Example Screenshots from Alexa App
 
