@@ -179,6 +179,7 @@ def get_station_code(station_name):
         "south hayward": "shay",
         "south san francisco": "ssan",
         "union city": "ucty",
+        "warm springs": "warm",
         "walnut creek": "wcrk",
         "west dublin pleasanton": "wdub",
         "west oakland": "woak",
